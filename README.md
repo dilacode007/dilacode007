@@ -19,11 +19,6 @@ Welcome to my GitHub profile! 🚀 Here's a little about me:
 
 ---
 
-## 🌐 Let's Connect:
-- 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle) | [Email](mailto:your-email@example.com)
-- 🎮 **Fun fact**: I love gaming and solving algorithm challenges in my free time!
-
----
 
 > 💻 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
